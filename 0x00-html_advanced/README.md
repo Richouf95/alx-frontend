@@ -1,6 +1,6 @@
 # 0x00. Advanced HTML
 
-![html](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240708T122210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=59b36c1eee2d261b5856cdf39b101105d7f2794acc58d026778c05dcdf3c2ac3)
+![html](./5d9e347964a9cc0e3e24.jpg)
 
 In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project
 
