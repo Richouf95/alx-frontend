@@ -51,7 +51,7 @@
         Section title margin
     */
     --section-title-margin: 0;
-    --section-title-color: var(var(--color-black))
+    --section-title-color: var(--color-black);
 }
 
 html {
