@@ -1,5 +1,7 @@
 # 0x02. Advanced CSS
 
+![css](./ce6718f1b55e6c1580c6.jpg)
+
 Formatting a web page with css
 
 ![css_projet](./b9a220ba79af9ede6fc5.png)
